@@ -59,7 +59,7 @@ Technologies utilisées :
 
 Lancement du projet : 
 1-Cloner ce dépôt :
-git clone https://github.com/votre-utilisateur/car_maintenance.git
+git clone https://github.com/Rayen-CHAOUI/car_maintenance.git
 
 2- Ouvrir le projet avec Android Studio ou Visual Studio Code.
 
@@ -67,6 +67,6 @@ git clone https://github.com/votre-utilisateur/car_maintenance.git
 flutter run
 
 Auteur : 
-CHAOUI Rayen
+CHAOUI Rayen.
 
 N'hésitez pas à contribuer, signaler des bugs ou proposer des améliorations !
