@@ -26,11 +26,11 @@
 
 ## Expérience utilisateur :
 Lors du **premier lancement de l'application**, l'utilisateur peut :
--Sélectionner un véhicule existant.
--Ou en créer un nouveau s'il n'existe pas encore.
+- Sélectionner un véhicule existant.
+- Ou en créer un nouveau s'il n'existe pas encore.
 
-Une fois un véhicule sélectionné, l'utilisateur accède à une page listant tous les entretiens liés à ce véhicule.
-Un bouton flottant en bas à droite permet d’ajouter un nouvel entretien.
+- Une fois un véhicule sélectionné, l'utilisateur accède à une page listant tous les entretiens liés à ce véhicule.
+- Un bouton flottant en bas à droite permet d’ajouter un nouvel entretien.
 
 ---
 
@@ -52,7 +52,7 @@ flutter run
 
 ---
 
-## Auteur : 
-**CHAOUI Rayen.**
+## Auteur : **CHAOUI Rayen.**
 
+---
 N'hésitez pas à contribuer, signaler des bugs ou proposer des améliorations !
