@@ -35,15 +35,17 @@ Lors du **premier lancement de l'application**, l'utilisateur peut :
 ---
 
 ## Technologies utilisées : 
--**Flutter / Dart** pour le développement mobile.
--**SQLite** pour la gestion locale des données.
+- **Flutter / Dart** pour le développement mobile.
+- **SQLite** pour la gestion locale des données.
 
 ---
 
 ## Lancement du projet : 
 1. Cloner ce dépôt :
 
+```bash
 git clone https://github.com/Rayen-CHAOUI/car-maintenance.git
+```
 
 2. Ouvrir le projet avec Android Studio ou Visual Studio Code.
 
@@ -55,4 +57,5 @@ flutter run
 ## Auteur : **CHAOUI Rayen.**
 
 ---
+
 N'hésitez pas à contribuer, signaler des bugs ou proposer des améliorations !
