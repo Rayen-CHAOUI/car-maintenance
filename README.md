@@ -50,7 +50,6 @@ git clone https://github.com/Rayen-CHAOUI/car-maintenance.git
 2. Ouvrir le projet avec Android Studio ou Visual Studio Code.
 
 3. Exécuter l'application sur un simulateur ou un appareil physique :
-```bash
 flutter run
 
 ---
